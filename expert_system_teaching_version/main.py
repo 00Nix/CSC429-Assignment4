@@ -1,3 +1,4 @@
+# Caleb Nix
 from kb_loader import load_rules
 from engine import ForwardChainingEngine
 
